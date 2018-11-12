@@ -20,7 +20,7 @@ git clone  https://github.com/flormich/gps-service
 
 <p align="center"
   
- ![logo](GPS.gif)>
+ ![logo](GPS.gif)
  
 </p>
 
