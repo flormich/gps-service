@@ -16,7 +16,7 @@ git clone  https://github.com/flormich/gps-service
 ## ✨️ Usage
 <br>
 
-## 📺 [Picture]
+## 📺 [Demo]
 
 <p align="center"
   
