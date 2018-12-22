@@ -10,7 +10,6 @@ Clone this reposoitory
 
 ```
 git clone  https://github.com/flormich/gps-service 
-
 ```
 
 ## ✨️ Usage
@@ -18,16 +17,13 @@ git clone  https://github.com/flormich/gps-service
 
 ## 📺 [Demo]
 
+<br>
 <p align="center"
   
  ![logo](GPS.gif)
  
 </p>
-
-
-
-
-
+<br>
 
 
 ## ©️ Copyright
